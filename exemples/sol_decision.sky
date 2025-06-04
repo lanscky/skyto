@@ -1,0 +1,5 @@
+tala analyse(h, ph, temp):
+    importa skyto.ai_modules
+    zongisa skyto.ai_modules.conseiller_type_sol(h, ph, temp)
+
+monisa(analyse(45, 6.2, 25))

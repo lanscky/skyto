@@ -1,0 +1,2 @@
+[console_scripts]
+lingaai = lingaai.cli:main

@@ -1,0 +1,12 @@
+README.md
+setup.py
+lingaai/__init__.py
+lingaai/ai_modules.py
+lingaai/cli.py
+lingaai/interpreter.py
+lingaai.egg-info/PKG-INFO
+lingaai.egg-info/SOURCES.txt
+lingaai.egg-info/dependency_links.txt
+lingaai.egg-info/entry_points.txt
+lingaai.egg-info/requires.txt
+lingaai.egg-info/top_level.txt
