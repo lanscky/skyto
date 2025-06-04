@@ -8,5 +8,4 @@ skyto.egg-info/PKG-INFO
 skyto.egg-info/SOURCES.txt
 skyto.egg-info/dependency_links.txt
 skyto.egg-info/entry_points.txt
-skyto.egg-info/requires.txt
 skyto.egg-info/top_level.txt

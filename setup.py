@@ -10,8 +10,8 @@ setup(
             'skyto=skyto.cli:main',
         ],
     },
-    author='Tshinkola',
-    description='Skyto, un langage en lingala pour apprendre la programmation et faire de l’IA',
+    author='Lanscky Tshinkola',
+    description='Skyto, un langage de programmation en lingala, pour apprendre la programmation et faire de l’IA',
     classifiers=[
         'Programming Language :: Python :: 3',
     ],

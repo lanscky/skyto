@@ -1,1 +1,6 @@
-monisa("Je suis entrain de tester")
+monisa("Bonjour")
+
+soki 10 < 11 :
+    monisa("Oza nanu muana mukié")
+sk_te:
+    monisa("Oza mukolo")
