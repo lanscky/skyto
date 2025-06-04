@@ -1,6 +1,6 @@
 # Skyto 🌿
 
-**Skyto** est un langage de programmation en lingala, orienté intelligence artificielle pour l’agriculture africaine.
+**Skyto** est un langage de programmation en lingala, pour apprendre la programmation et faire de l'intelligence artificielle.
 
 ## Exemple :
 
