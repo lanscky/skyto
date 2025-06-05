@@ -1,0 +1,13 @@
+# cli.py
+
+import sys
+from lingaai.interpreter import executer
+
+def main():
+    if len(sys.argv) != 2:
+        print("Utilisation: lingaai fichier.lga")
+        return
+    fichier = sys.argv[1]
+    with open(fichier, "r") as f:
+        code = f.read()
+        executer(code)

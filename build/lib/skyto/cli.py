@@ -1,10 +1,18 @@
+# skyto/cli.py
+
 import sys
-from skyto.interpreter import executer
+from skyto import interpreter
 
 def main():
-    if len(sys.argv) != 2:
-        print("Utilisation : skyto mon_fichier.lga")
+    if len(sys.argv) < 2:
+        print("Usage: skyto <fichier.sto>")
         return
-    with open(sys.argv[1], 'r') as fichier:
-        code = fichier.read()
-        executer(code)
+
+    fichier_path = sys.argv[1]
+
+    try:
+        with open(fichier_path, 'r') as fichier:
+            code = fichier.read()
+            interpreter.executer(code)
+    except FileNotFoundError:
+        print(f"Fichier introuvable : {fichier_path}")

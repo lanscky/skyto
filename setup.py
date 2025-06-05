@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='skyto',
-    version='0.1',
+    version='0.2',
     packages=find_packages(),
     install_requires=[],
     entry_points={
@@ -11,7 +11,7 @@ setup(
         ],
     },
     author='Lanscky Tshinkola',
-    description='Skyto, un langage de programmation en lingala, pour apprendre la programmation et faire de l’IA',
+    description='Skyto est un langage de programmation pédagogique basé sur Python, permettant d’écrire du code en Lingala et faire de l’intelligence artificielle',
     classifiers=[
         'Programming Language :: Python :: 3',
     ],

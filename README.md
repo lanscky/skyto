@@ -1,6 +1,6 @@
 # Skyto 🌿
 
-**Skyto** est un langage de programmation en lingala, pour apprendre la programmation et faire de l'intelligence artificielle.
+**Skyto** Skyto est un langage de programmation pédagogique basé sur Python, permettant d’écrire du code en Lingala et faire de l'intelligence artificielle.
 
 ## Exemple :
 
